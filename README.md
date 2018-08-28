@@ -6,3 +6,14 @@ I chose to replicate a game largely because it seemed to be a fun, low commitmen
 
 This project is currently in development, and if anyone has any tips for writing development-level Haskell, all input would be much appreciated!
 	
+## Tech Stack
+
+This webpage is currently developed with the following technologies :
+
+* [Yesod](https://www.yesodweb.com/) - A (Haskell) web framework for producing type-safe, RESTful web applications.
+* [Shakespeare](https://hackage.haskell.org/package/shakespeare) - A family of type-safe templating languages which includes:
+	* [Hamlet](http://hackage.haskell.org/package/hamlet) - A type-safe tool for the generation of HTML code.
+	* [Julius](https://hackage.haskell.org/package/shakespeare-js-1.1.0/docs/Text-Julius.html) - A Shakespearean module for creating javascript templates with variable interpolation.
+	* [Lucius](https://hackage.haskell.org/package/shakespeare-2.0.15/docs/Text-Lucius.html) - A superset of CSS.
+	
+* [Haskell](https://www.haskell.org/) - Declarative, statically typed code, and also the back end of this project.
