@@ -17,3 +17,7 @@ This webpage is currently developed with the following technologies :
 	* [Lucius](https://hackage.haskell.org/package/shakespeare-2.0.15/docs/Text-Lucius.html) - A superset of CSS.
 	
 * [Haskell](https://www.haskell.org/) - Declarative, statically typed code, and also the back end of this project.
+
+## Timeline
+
+The timeline of this project is TBD. With a heavy schedule heading into my Junior year of college, it might be hard to balance working on this in addition to school work/getting prepared for interview season.
